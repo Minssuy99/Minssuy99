@@ -5,3 +5,5 @@
 ![Minssuy99's GitHub stats](https://github-readme-stats.vercel.app/api?username=minssuy99&rank_icon=github&show_icons=true&theme=default)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minssuy99&layout=compact)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
