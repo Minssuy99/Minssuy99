@@ -1,9 +1,6 @@
 <div align="center"> 
 
-
-
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Minssuy99)
- <br/>
  
 ### Hi there 👋
 
@@ -18,12 +15,12 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white">
  
-    </br>
-   
-    </br>
 
-   </br>
-
+ 
+  <br/>
+  </br>
+   <br/>
+  </br>
 
 ![Minssuy99's GitHub stats](https://github-readme-stats.vercel.app/api?username=minssuy99&rank_icon=github&show_icons=true&theme=dark) <!-- 기본값 : default -->
 
