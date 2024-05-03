@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Minssuy99)
  
 ### Hi there 👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F%40minssuy99&count_bg=%238E9AFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Velog&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F%40minssuy99&count_bg=%238E9AFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Velog&edge_flat=false)](https://velog.io/@minssuy99)
 <br/>
 </br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinssuy99&count_bg=%238E9AFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://github.com/Minssuy99)
