@@ -1,9 +1,14 @@
 <div align="center"> 
 
-### Hi there 👋
+
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Minssuy99)
+ <br/>
+ 
+### Hi there 👋
 
+ <br/>
+ 
 ####  :clipboard: Once I've Used 
   
  <br/>
