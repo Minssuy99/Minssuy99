@@ -28,10 +28,14 @@
 </br>
 <br/>
 </br>
+<br/>
+</br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minssuy99&layout=compact&theme=dark&size_weight=0.5&count_weight=0.5)  <!-- 기본값 : compact -->
 
 ![Minssuy99's GitHub stats](https://github-readme-stats.vercel.app/api?username=minssuy99&rank_icon=github&show_icons=true&theme=dark) <!-- 기본값 : default -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minssuy99&layout=compact&theme=dark&size_weight=0.5&count_weight=0.5)  <!-- 기본값 : compact -->
+
 
 
 </div>
