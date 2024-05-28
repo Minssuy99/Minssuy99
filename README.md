@@ -39,7 +39,7 @@
 <br/>
 </br>
 
-### 📝 Baekjoon
+### [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=minssuy99)](https://solved.ac/minssuy99)
 </br>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minssuy99)](https://solved.ac/minssuy99)
