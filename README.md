@@ -29,15 +29,18 @@
 </br>
 <br/>
 </br>
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minssuy99)](https://solved.ac/minssuy99)
-
 <br/>
 </br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minssuy99&layout=compact&theme=compact&size_weight=0.5&count_weight=0.5)  <!-- 기본값 : compact / 쓰던건 dark-->
 
 ![Minssuy99's GitHub stats](https://github-readme-stats.vercel.app/api?username=minssuy99&rank_icon=github&show_icons=true&theme=default) <!-- 기본값 : default / 쓰던건 dark -->
+
+<br/>
+</br>
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minssuy99)](https://solved.ac/minssuy99)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=minssuy99&theme=cold)
 
 
 
