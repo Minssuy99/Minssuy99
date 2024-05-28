@@ -43,7 +43,7 @@
 </br>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minssuy99)](https://solved.ac/minssuy99)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=minssuy99&theme=cold)
+[![mazandi profile](http://mazandi.herokuapp.com/api?handle=minssuy99&theme=cold)](https://solved.ac/minssuy99)
 
 
 
