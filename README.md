@@ -47,9 +47,7 @@
   src="https://render.gitanimals.org/farms/Minssuy99"
   width="600"
   height="300"
- 
 />
-</a>
 </a>
 
 </div>
