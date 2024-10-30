@@ -7,8 +7,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinssuy99&count_bg=%238E9AFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/Minssuy99)
 <br/>
 </br>
-<br/>
-</br>
+
 ###  :clipboard: Once I've Used 
 </br>
 <img src="https://img.shields.io/badge/Unity-000000?Style=for-the-badge&logo=Unity&logoColor=white">
@@ -25,8 +24,7 @@
 
 
  
-<br/>
-</br>
+
 <br/>
 </br>
 
@@ -36,12 +34,9 @@
 
 ![Minssuy99's GitHub stats](https://github-readme-stats.vercel.app/api?username=minssuy99&rank_icon=github&show_icons=true&theme=default) <!-- 기본값 : default / 쓰던건 dark -->
 
-<br/>
-</br>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=minssuy99)](https://solved.ac/minssuy99)
 
-</br>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minssuy99)](https://solved.ac/minssuy99)
 [![mazandi profile](http://mazandi.herokuapp.com/api?handle=minssuy99&theme=cold)](https://solved.ac/minssuy99)
