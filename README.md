@@ -41,5 +41,12 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minssuy99)](https://solved.ac/minssuy99)
 [![mazandi profile](http://mazandi.herokuapp.com/api?handle=minssuy99&theme=cold)](https://solved.ac/minssuy99)
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/Minssuy99"
+  width="600"
+  height="300"
+/>
+</a>
 
 </div>
