@@ -8,6 +8,7 @@
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinssuy99&count_bg=%238E9AFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" width="12%" />
 </a>
 
+
 <br/>
 </br>
 
@@ -43,6 +44,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minssuy99&layout=donut" width="34%" />
 </a>
 
+
+<!---백업용 ![Minssuy99's GitHub stats](https://github-readme-stats.vercel.app/api?username=minssuy99&rank_icon=github&show_icons=true&theme=default)-->
 <a href="https://github.com/minssuy99">
 <img src="https://github-readme-stats.vercel.app/api?username=minssuy99&rank_icon=github&show_icons=true&theme=default" width="50%" />
 </a>
