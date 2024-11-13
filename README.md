@@ -1,7 +1,8 @@
 <div align="center"> 
-
+<!--------------------------------
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Minssuy99)
-<!------------------------------------------------------------------------------------>
+-------------------------------------------------->
+  
 ### Hi there 👋
 
 <a href="https://github.com/Minssuy99">
@@ -45,15 +46,15 @@
 </a>
 
 
-<!---백업용 ![Minssuy99's GitHub stats](https://github-readme-stats.vercel.app/api?username=minssuy99&rank_icon=github&show_icons=true&theme=default)-->
+<!----------------------------------------------------------------------------------->
 <a href="https://github.com/minssuy99">
 <img src="https://github-readme-stats.vercel.app/api?username=minssuy99&rank_icon=github&show_icons=true&theme=default" width="50%" />
 </a>
-
+<!---------------------------------------------------------------
 <a href="https://github.com/minssuy99">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=minssuy99&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=84%/>
 </a>
-<!----------------------------------------------------------------------------------->
+<!--------------------------------------------------------------
 <a href="https://github.com/devxb/gitanimals">
 <img src="https://render.gitanimals.org/farms/Minssuy99"width="84%"/>
 </a>
