@@ -11,9 +11,17 @@
 <!----
 <a href ="https://towering-liver-7fa.notion.site/Minssuy99-13c3635d6ad4806e9282fbe9982c81bd"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&link=https://towering-liver-7fa.notion.site/Minssuy99-13c3635d6ad4806e9282fbe9982c81bd"/><a>
 --->
+
+
+
+
+<!----  유튜브, 디스코드, 지메일
 <a href="mailto:rlaalstjd6302@naver.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=rlaalstjd6302@naver.com"/></a>
 <a href="https://www.youtube.com/@MyCatJazz"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&link=https://www.youtube.com/@MyCatJazz"/><a>
 <a href="https://discordapp.com/users/283922139088683009"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&link=https://discordapp.com/users/283922139088683009"/><a>
+--->
+
+
 
 
 <!--------------------------------
