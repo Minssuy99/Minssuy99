@@ -5,9 +5,6 @@
 ![cloud-sky-sunlight-atmosphere-daytime-cumulus-946259-pxhere com](https://github.com/user-attachments/assets/460abf40-b686-4577-91b2-33ae2fb56620)
 
 
-
-
-
 <!----
 <a href ="https://towering-liver-7fa.notion.site/Minssuy99-13c3635d6ad4806e9282fbe9982c81bd"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&link=https://towering-liver-7fa.notion.site/Minssuy99-13c3635d6ad4806e9282fbe9982c81bd"/><a>
 --->
@@ -66,6 +63,19 @@
 <a href="https://solved.ac/minssuy99">
   <img src="http://mazandi.herokuapp.com/api?handle=minssuy99&theme=cold" width="42%" />
 </a>
+<!------------------------------------------------------------------------------------>
+
+![test](https://raw.githubusercontent.com/minssuy99/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![test](https://raw.githubusercontent.com/minssuy99/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+<!-- GitHub Overview Stats (Light mode only) -->
+<img src="https://raw.githubusercontent.com/minssuy99/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="GitHub Overview Stats" />
+
+<!-- GitHub Language Stats (Light mode only) -->
+<img src="https://raw.githubusercontent.com/minssuy99/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="GitHub Language Stats" />
+
+
 <!------------------------------------------------------------------------------------>
 
 </br>
