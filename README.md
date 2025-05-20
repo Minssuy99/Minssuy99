@@ -65,19 +65,6 @@
 </a>
 <!------------------------------------------------------------------------------------>
 
-![test](https://raw.githubusercontent.com/minssuy99/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
-![test](https://raw.githubusercontent.com/minssuy99/github-stats/master/generated/languages.svg#gh-light-mode-only)
-
-<!-- GitHub Overview Stats (Light mode only) -->
-<img src="https://raw.githubusercontent.com/minssuy99/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="GitHub Overview Stats" />
-
-<!-- GitHub Language Stats (Light mode only) -->
-<img src="https://raw.githubusercontent.com/minssuy99/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="GitHub Language Stats" />
-
-
-<!------------------------------------------------------------------------------------>
-
 </br>
 <a href="https://github.com/minssuy99">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minssuy99&layout=donut" width="34%" />
