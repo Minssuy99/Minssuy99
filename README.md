@@ -6,7 +6,8 @@
 
 <!--- ![Cloud](https://github.com/user-attachments/assets/67b197a6-4b68-4f26-ac80-5e1b0fea0a7a) --->
 
-<img width="1200" height="798" alt="sung-jin-cho-HxCLaUP2Itk-unsplash" src="https://github.com/user-attachments/assets/20d01945-686a-42bf-80ef-1c649eb96b40" />
+<img width="800" height="531" alt="sung-jin-cho-HxCLaUP2Itk-unsplash" src="https://github.com/user-attachments/assets/c37ec1f5-5ae0-4976-9369-72f235b87217" />
+
 
 
 <!---
