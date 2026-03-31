@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="700" height="437" alt="image" src="https://github.com/user-attachments/assets/cc8c3073-0d36-450c-a584-3ce90cdbe527" />
+<img width="700" height="437" alt="mick-haupt-KBuoWkRQTfE-unsplash" src="https://github.com/user-attachments/assets/23f565c9-1400-4d31-9a19-ee7a5d77711a" />
 
 <br>
 </br>
