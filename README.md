@@ -1,6 +1,11 @@
+
 <div align="center">
 
+<!--
 <img width="700" height="437" alt="mick-haupt-KBuoWkRQTfE-unsplash" src="https://github.com/user-attachments/assets/23f565c9-1400-4d31-9a19-ee7a5d77711a" />
+-->
+
+<img width="700" height="437" alt="【哲风壁纸】晶莹-植物-橙色花蕊" src="https://github.com/user-attachments/assets/21989e5c-1d13-43c1-8a4b-9619b976dbac" />
 
 <!-- https://github.com/mazassumnida/mazassumnida -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
